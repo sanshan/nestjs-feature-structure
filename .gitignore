@@ -1,3 +1,9 @@
+#sqlite
+db.sqlite
+
+#JetBrains
+.idea
+
 # Logs
 logs
 *.log
